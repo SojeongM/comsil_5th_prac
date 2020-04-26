@@ -124,7 +124,7 @@ void postfix(void){
 int main(){
 	scanf("%s", expr);
 	postfix();
-	printf("%s\n", expr);
+	printf("%s end program\n", expr);
 	return 0;
 }
 
